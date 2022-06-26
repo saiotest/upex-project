@@ -48,13 +48,9 @@ Ya con el tridente estás super bien para conseguir laburo, pero... necesitarás
     
     *   2 semanas fueron esperando respuestas (apliqué bien la estrategia la última semana),
         
-    *   1 semana y media fue recibiendo 9 entrevistas:
-        
-        *   4 de ellas se volvieron técnicas, siendo un total de 13 meetings en casi 2 semanas.
+    *   1 semana y media fue recibiendo 9 entrevistas: 4 de ellas se volvieron técnicas, siendo un total de 13 meetings en casi 2 semanas.
             
-    *   y el día 30 (casi al mes) ya recibí mi primera oferta formal de laburo,
-        
-        *   con fecha de entrada 1 semana y media después.
+    *   y el día 30 (casi al mes) ya recibí mi primera oferta formal de laburo, con fecha de entrada 1 semana y media después.
             
 
 Suerte? tal vez, pero fue una exageración prolongada para ser solo suerte...
