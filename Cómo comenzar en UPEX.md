@@ -16,31 +16,31 @@ para tu viaje en UPEX y ganar mucha experiencia real como Tester QA:
 
 *   Te recomiendo mirar este video tutorial, que te explica resumidamente CÓMO EMPEZAR:
     
-    *   [https://www.youtube.com/watch?v=zG-ijnsnsAc](https://www.youtube.com/watch?v=zG-ijnsnsAc)
+    *   [YOUTUBE: PASO A PASO CÓMO EMPEZAR EN UPEX](https://www.youtube.com/watch?v=zG-ijnsnsAc)
         
 
 **🚀SEGUNDO.**
 
 *   **¿Ya te suscribiste al canal de Youtube?**🥺  
-    🎯[https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ)  
+    🎯[YOUTUBE CHANNEL: SAITEST](https://www.youtube.com/channel/UCjeG7wgxacZI0mTGBcFOxrQ)  
     → _PD: "Saitest" es el nombre del canal de Youtube. "UPEX" es el nombre de la organización y comunid_ad.
     
 
 **🚀TERCERO**.
 
-*   ENVÍA un mensaje al canal [https://upexqa.slack.com/archives/C02F15MLW2H](https://upexqa.slack.com/archives/C02F15MLW2H) solicitando acceso a los "**Canales de Estudio**".
+*   ENVÍA un mensaje al canal [#lobby](https://upexqa.slack.com/archives/C02F15MLW2H) solicitando acceso a los "**Canales de Estudio**".
     
     *   Uno de los Moderadores o el mismo [@Ely](https://upexqa.slack.com/team/U02FTQB6B88) te responderá y te agregará a todos los Canales disponibles de SLACK, dándote FULL ACCESO a TODOS los materiales de los cursos y más!✨
         
     *   Dichos canales (hasta la fecha) son:
         
-    *   [https://upexqa.slack.com/archives/C02P1ASQM7S](https://upexqa.slack.com/archives/C02P1ASQM7S)
+    *   [#upex-bootcamp](https://upexqa.slack.com/archives/C02P1ASQM7S)
         
-    *   [https://upexqa.slack.com/archives/C02NQR5BEVC](https://upexqa.slack.com/archives/C02NQR5BEVC)
+    *   [#upex-academy](https://upexqa.slack.com/archives/C02NQR5BEVC)
         
-    *   [https://upexqa.slack.com/archives/C035B6XRECB](https://upexqa.slack.com/archives/C035B6XRECB)
+    *   [#upex-sql](https://upexqa.slack.com/archives/C035B6XRECB)
         
-    *   [https://upexqa.slack.com/archives/C03CB03QV0Q](https://upexqa.slack.com/archives/C03CB03QV0Q)
+    *   [#upex-api-automation](https://upexqa.slack.com/archives/C03CB03QV0Q)
         
 
 **Atento, necesito (si puedes) accedas a CADA UNO de los canales que tenemos en SLACK, y si no lo tenías antes, Haz click en "Unirse" cuando te abra el canal.**
@@ -99,39 +99,38 @@ _(A excepción de los "Canales de Estudio" que son privados para los que solicit
         
     *   **🚩CURSO: "TESTING AL GRANO**"
         
-        *   El canal de seguimiento es [https://upexqa.slack.com/archives/C02NQR5BEVC](https://upexqa.slack.com/archives/C02NQR5BEVC)
+        *   El canal de seguimiento es [upex-bootcamp](https://upexqa.slack.com/archives/C02NQR5BEVC)
             
         *   Para ir a la lista de reproducción de este Curso, haz click en este enlace de Youtube:  
-            [https://youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--](https://youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
+            [CURSO: TESTING AL GRANO](https://youtube.com/playlist?list=PLLYWsphuMYKtH2f4HgajbW-Po2OygQ8--)
             
-        *   Para ver el TEMARIO COMPLETO del Curso, entra en nuestro Confluence (si ya estás en JIRA):  
-            [UPEX ACADEMY: QA Road Map](https://upexsprint7.atlassian.net/wiki/spaces/UPEX/pages/295975/UPEX+ACADEMY%3A+QA+Road+Map)
+        *   Para ver el TEMARIO COMPLETO del Curso: ""
             
-        *   Cada CLASE tiene una tarea/actividad, un ENTREGABLE (que le llamamos "Delivery"). Dichas tareas se deben subir al canal de [https://upexqa.slack.com/archives/C02PTCKNV7E](https://upexqa.slack.com/archives/C02PTCKNV7E) , ahí recibirás feedback. Cualquier duda, consulta!
+        *   Cada CLASE tiene una tarea/actividad, un ENTREGABLE (que le llamamos "Delivery"). Dichas tareas se deben subir al canal de [#task](https://upexqa.slack.com/archives/C02PTCKNV7E) , ahí recibirás feedback. Cualquier duda, consulta!
             
-        *   Si ya tienes CONOCIMIENTOS PREVIOS de Testing, de igual forma te recomendamos empezar desde la CLASE#1 pero si no, será mejor seguir el Curso desde la **CLASE#6.1** donde aprenderás cómo es JIRA, y con los próximos videos, aprenderás a TRABAJAR TAL CUAL COMO EN EL LABURO!
+        *   Si ya tienes CONOCIMIENTOS PREVIOS de Testing, de igual forma te recomendamos empezar desde la CLASE#1 pero si no, será mejor seguir el Curso desde la **CLASE#6.1** donde aprenderás cómo es JIRA, y con los próximos videos, aprenderás a TRABAJAR TAL CUAL COMO EN UN PROYECTO!
             
     *   Si ya quieres proceder APRENDER "SQL", tenemos también el CURSO PERFECTO PARA TESTERS para estudiar y experimentar trabajar con SQL!
         
     *   **🚩CURSO: "SQL AL GRANO"**
         
-        *   El canal de seguimiento es [https://upexqa.slack.com/archives/C035B6XRECB](https://upexqa.slack.com/archives/C035B6XRECB)
+        *   El canal de seguimiento es [#upex-sql](https://upexqa.slack.com/archives/C035B6XRECB)
             
         *   Haz click en este enlace de Youtube para ir a la lista de reproducción de este Curso:  
-            [https://youtube.com/playlist?list=PLLYWsphuMYKvvFX2hbh5XRyCrTSq6B1Xc](https://youtube.com/playlist?list=PLLYWsphuMYKvvFX2hbh5XRyCrTSq6B1Xc)
+            [CURSO: SQL AL GRANO](https://youtube.com/playlist?list=PLLYWsphuMYKvvFX2hbh5XRyCrTSq6B1Xc)
             
-        *   Los Delivery del Curso "SQL AL Grano", se envía también por este canal [https://upexqa.slack.com/archives/C02PTCKNV7E](https://upexqa.slack.com/archives/C02PTCKNV7E)
+        *   Los Delivery del Curso "SQL AL Grano", se envía también por este canal [#task](https://upexqa.slack.com/archives/C02PTCKNV7E)
             
     *   Para completar el "TRIDENTE DEL TESTING" y poder comenzar a buscar trabajo como QA, debes aprender API testing también! y Nosotros tenemos también el CURSO PERFECTO para estudiar y experimentar trabajar con API Testing!
         
     *   **🚩CURSO: "API REST AL GRANO"**
         
-        *   El canal de seguimiento es [https://upexqa.slack.com/archives/C03CB03QV0Q](https://upexqa.slack.com/archives/C03CB03QV0Q)
+        *   El canal de seguimiento es [#upex-api-automation](https://upexqa.slack.com/archives/C03CB03QV0Q)
             
         *   Haz click en este enlace de YouTube para ir a la lista de reproducción de este Curso:  
-            [https://youtube.com/playlist?list=PLLYWsphuMYKvII5bbgZKbSHLQzg2\_MrK0](https://youtube.com/playlist?list=PLLYWsphuMYKvII5bbgZKbSHLQzg2_MrK0)
+            [CURSO: API AL GRANO](https://youtube.com/playlist?list=PLLYWsphuMYKvII5bbgZKbSHLQzg2_MrK0)
             
-        *   Los Delivery del Curso "API Al Grano", también se envía por el canal [https://upexqa.slack.com/archives/C02PTCKNV7E](https://upexqa.slack.com/archives/C02PTCKNV7E)
+        *   Los Delivery del Curso "API Al Grano", también se envía por el canal [#task](https://upexqa.slack.com/archives/C02PTCKNV7E)
             
 
 **🚀SEXTO**.
@@ -139,20 +138,20 @@ _(A excepción de los "Canales de Estudio" que son privados para los que solicit
 *   Mientras estás estudiando el Curso de "Testing Al Grano" u otro,  
     **¿Te gustaría YA ganar experiencia REAL?...**
     
-    *   LISTO! Simplemente ENVÍA un mensaje en el canal [https://upexqa.slack.com/archives/C02P1ASQM7S](https://upexqa.slack.com/archives/C02P1ASQM7S) indicando:  
-        "**Quiero empezar a trabajar en Jira" (o similar)**  
-        y en cuanto [@Ely](https://upexqa.slack.com/team/U02FTQB6B88) vea dicho mensaje, te responderá y te asignará tu primera labor!
+    *   LISTO! Simplemente ENVÍA un mensaje en el canal [#upex-bootcamp](https://upexqa.slack.com/archives/C02P1ASQM7S) indicando:  
+        "**Solicito una Historia de Usuario**" o "**Quiero comenzar a trabajar en Jira**" (o similar)  
+        y en cuanto un Deployer de UPEX vea dicho mensaje, te responderá y te asignará tu primera labor!
         
-        *   **PD: PUEDES SOLICITAR TRABAJAR ESTO CUANDO QUIERAS!**
+        *   **PD: PUEDES SOLICITAR TRABAJAR CUANDO QUIERAS!**
             
-    *   En el canal [https://upexqa.slack.com/archives/C02P1ASQM7S](https://upexqa.slack.com/archives/C02P1ASQM7S) tendrás TODAS LAS GUÍAS que necesitarás para sobrevivir a tu primer TESTING!
+    *   En el canal [#upex-bootcamp](https://upexqa.slack.com/archives/C02P1ASQM7S) tendrás TODAS LAS GUÍAS que necesitarás para sobrevivir a tu primer TESTING!
         
 
 ## **✅ YA TIENES TODO EL RECORRIDO TRAZADO!**
 
 **Ahora a luchar por tu Futuro y nueva carrera!**
 
-🧭_**Cualquier duda, puedes consulta al Líder de esta Iniciativa**_ [Elyer Maldonado](https://upexsprint7.atlassian.net/wiki/people/61179bdd01072b0069c94a26?ref=confluence)
+🧭 _**Cualquier duda, puedes consulta al Líder de esta Iniciativa**_ [Elyer Maldonado en Linkedin](https://www.linkedin.com/in/elyermad/)
 
 # _**🎉 HAPPY TESTING 💜**_  
 .  
