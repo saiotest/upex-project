@@ -101,16 +101,11 @@ Holaa buenas tardes. Gracias querido @Ely por tanto por dejarme muy claro cosas 
 
 Vaaaaamooo' los de UPEX
 
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.002.jpeg)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.003.png)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.004.png)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.005.png)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.006.png)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.007.png)
-
-![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.008.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 001](https://user-images.githubusercontent.com/91127281/175805452-41ffb0b3-e1c9-4590-b4c2-bfd1d3bd8dba.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 002](https://user-images.githubusercontent.com/91127281/175805458-c28a9f69-7a2c-4497-90cb-8b822cb81dcd.jpeg)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 003](https://user-images.githubusercontent.com/91127281/175805459-40ea6baf-0c60-49b8-8931-dc86445e5d25.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 004](https://user-images.githubusercontent.com/91127281/175805462-154f46a2-7459-4744-8516-617a3e23d0ac.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 005](https://user-images.githubusercontent.com/91127281/175805465-e5837a00-0df9-4aca-adab-0e6d09727c8b.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 006](https://user-images.githubusercontent.com/91127281/175805467-c8552a16-4ef6-4dfa-a285-6633e36ac862.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 007](https://user-images.githubusercontent.com/91127281/175805470-7d7ae8cf-2504-4b4d-86e6-ed9c4e1ce7d9.png)
+![Aspose Words 8cc1dbd6-0248-4336-ae5a-6c5e9b105123 008](https://user-images.githubusercontent.com/91127281/175805471-fa0408bf-9c95-46f6-a43e-425cc3ea6657.png)
