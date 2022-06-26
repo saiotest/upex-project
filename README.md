@@ -2,7 +2,7 @@
 # **¡GRATIS!**
 
 ✨ESTOS SON ALGUNOS TESTIMONIOS DE TESTERS QUE LO LOGRARON!...
-[HISTORIAL DE MENSAJES DE UPERS EGRESADOS](https://github.com/Hirosaiku/upex-project/blob/main/Historial%20de%20Egresados.md)
+[HISTORIAL DE EGRESADOS](https://github.com/Hirosaiku/upex-project/blob/main/Historial%20de%20Egresados.md)
 
 
 # **🚀✨ LEVEL UP EXPERIENCE** — **"UPEX"** —
