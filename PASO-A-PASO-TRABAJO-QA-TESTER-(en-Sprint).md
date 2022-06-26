@@ -1,11 +1,10 @@
 ### PASO A PASO de toda las Tareas de QA en sus actividades de testing para trabajar en una Historia de Usuario:  
 (el tiempo de trabajo dependerá de los Story Points que tenga la US)
 
-_**AQUÍ SE PUEDE VISUALIZAR UN FLUJO COMPLETO DEL TRABAJO QA (siempre actualizado):**_ 
+### _**AQUÍ SE PUEDE VISUALIZAR UN FLUJO COMPLETO DEL TRABAJO QA (siempre actualizado):**_ 
 
-[https://docs.google.com/spreadsheets/d/1Z4d56hPeVxO8AJ1p-ZK5wHlT4WuSzOvjyf3JYk0AFqA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Z4d56hPeVxO8AJ1p-ZK5wHlT4WuSzOvjyf3JYk0AFqA/edit?usp=sharing)
+## [ISSUES STRUCTURES BRANCHING FLOW (ISBF)](https://docs.google.com/spreadsheets/d/1Z4d56hPeVxO8AJ1p-ZK5wHlT4WuSzOvjyf3JYk0AFqA/edit?usp=sharing)
 
-_**ISSUES STRUCTURES BRANCHING FLOW (ISBF)**_
 
 ## RECOMENDACIÓN: [PASO-A-PASO (Detallado) Proceso QA de US](https://upexsprint7.atlassian.net/wiki/spaces/UPEX/pages/296521/PASO-A-PASO+%28Detallado%29+Proceso+QA+de+US)
 
@@ -47,4 +46,4 @@ Si tienen dudas, háganmelo saber, así podré cada vez mejorar esta guía (igua
 
 ## ADICIONAL! PARA SER UN MEJOR TESTER Y CONTRIBUIR EN UPEX:
 
-[https://youtu.be/cybq5xXY2Po](https://youtu.be/cybq5xXY2Po)
+# [CÓMO HACER UN BUEN TRABAJO QA](https://youtu.be/cybq5xXY2Po)
