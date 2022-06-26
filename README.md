@@ -1,6 +1,5 @@
 ### 😱Y SI TE DIGO QUE PUEDES APRENDER Y GANAR EXPERIENCIA REAL AL MISMO TIEMPO?🕵🏻‍♂️
 # **¡GRATIS!**
-===
 
 ESTOS TESTERS LO LOGRARON!...
 [HISTORIAL DE MENSAJES DE UPERS EGRESADOS](https://github.com/Hirosaiku/upex-project/blob/main/Historial%20de%20Egresados.md)
