@@ -2,117 +2,36 @@
 
 UPEX Es un programa educativo sin fines de lucro llamado "**Level-UP Experience**" (abreviado: UPEX), actualmente especializado para QA Testers, cuyo **valor** es aportar la **solución definitiva** a la **necesidad del Tester Jr o Trainee de conseguir esa primera experiencia laboral** que no puede porque le piden muchos **años de experiencia**. Este programa resuelve tal problemática, uniendo a dichos testers en equipos de trabajo por proyectos pequeños, llevado a cabo con **metodologías ágiles** en la plataforma **JIRA** y con algunas integraciones de la misma, efectuando **todas las tareas del cargo**, con el fin de **obtener experiencia suficiente** para luego conseguir entrevistas, superarlas y entrar a trabajar en una empresa IT, con seguridad de sí mismo y sin miedo al éxito!
 
-**Para empezar PASO A PASO** **Véase**: [RUTA DE APRENDIZAJE UPEX🚀](https://upexsprint7.atlassian.net/wiki/spaces/UPEX/pages/296614)
+**Para empezar este Viaje**: [ÚNETE A NUESTRA COMUNIDAD EN SLACK🚀](https://linktr.ee/upex)
 
 **🚩Aquí, a continuación, están listados TODOS los canales para la comunidad de UPEX en** Slack:
 
-1.  Canal del Paso-a-Paso para Iniciar en UPEX → [https://upexqa.slack.com/archives/C02PG2C9XC3](https://upexqa.slack.com/archives/C02PG2C9XC3)
+1.  Canal del Paso-a-Paso para Iniciar en UPEX → [#introducción](https://upexqa.slack.com/archives/C02PG2C9XC3)
     
-2.  Canal para Donación a Ely y a la Iniciativa UPEX → [https://upexqa.slack.com/archives/C034UALUMPD](https://upexqa.slack.com/archives/C034UALUMPD)
+2.  Canal para Donación a Ely y a la Iniciativa UPEX → [#donación](https://upexqa.slack.com/archives/C034UALUMPD)
     
-3.  Canal para dejar Feedback los Egresados de UPEX → [https://upexqa.slack.com/archives/C0387PY588K](https://upexqa.slack.com/archives/C0387PY588K)
+3.  Canal para dejar Feedback los Egresados de UPEX → [#testimonios](https://upexqa.slack.com/archives/C0387PY588K)
     
-4.  Canal para Enviar los Deliverys (tareas de las Clases de Saitest) → [https://upexqa.slack.com/archives/C02PTCKNV7E](https://upexqa.slack.com/archives/C02PTCKNV7E)
+4.  Canal para Enviar los Deliverys (tareas de las Clases de Saitest) → [#task](https://upexqa.slack.com/archives/C02PTCKNV7E)
     
-5.  Canal para realizar Consultas sobre algún tópico cualquiera → [https://upexqa.slack.com/archives/C031Z91QND7](https://upexqa.slack.com/archives/C031Z91QND7)
+5.  Canal para realizar Consultas sobre algún tópico cualquiera → [#consultas](https://upexqa.slack.com/archives/C031Z91QND7)
     
-6.  Canal para seguimiento de actividad en UPEX-JIRA → [https://upexqa.slack.com/archives/C02N8M596P7](https://upexqa.slack.com/archives/C02N8M596P7)
+6.  Canal para seguimiento de actividad en UPEX-JIRA → [#bootcamp-log](https://upexqa.slack.com/archives/C02N8M596P7)
     
-7.  Canal para publicación y postulación de Empleos Linkedin → [https://upexqa.slack.com/archives/C0300SW6PM2](https://upexqa.slack.com/archives/C0300SW6PM2)
+7.  Canal para publicación y postulación de Empleos Linkedin → [#bolsa-de-empleos](https://upexqa.slack.com/archives/C0300SW6PM2)
     
-8.  Canal para publicación de Otros Cursos exteriores a UPEX → [https://upexqa.slack.com/archives/C0319R61BNC](https://upexqa.slack.com/archives/C0319R61BNC)
+8.  Canal para publicación de Otros Cursos exteriores a UPEX → [#otros-cursos](https://upexqa.slack.com/archives/C0319R61BNC)
     
-9.  Canal exclusivo para el Aliado streamer "CharlyAutomatiza" → [https://upexqa.slack.com/archives/C039BKZ53QE](https://upexqa.slack.com/archives/C039BKZ53QE)
+9.  Canal exclusivo para el Aliado streamer "CharlyAutomatiza" → [#automation-by-charly](https://upexqa.slack.com/archives/C039BKZ53QE)
     
-10.  Canal para el Code of Conduct de los Derechos de la Comunidad UPEX → [https://upexqa.slack.com/archives/C02Q5M81CRW](https://upexqa.slack.com/archives/C02Q5M81CRW)
+10.  Canal para el Code of Conduct de los Derechos de la Comunidad UPEX → [#codigo-de-conducta](https://upexqa.slack.com/archives/C02Q5M81CRW)
+
+11. Canal para el Revisión de Trabajos QA del Bootcamp → [#story-review](https://upexqa.slack.com/archives/C03K4VBRLPN)  
     
 
 **Ahora en adelante, cada nuevo miembro que entre a Slack tendrá TODOS los canales públicos con acceso.**  
  (A excepción de los "Canales de Estudio" que son privados para los que soliciten acceso)
 
-Search    
-
-## Páginas Populares
-
-*   Page:
-    
-    [INDEX: SUT PLANNING (template)](/wiki/spaces/UPEX/pages/295414)
-    
-*   Page:
-    
-    [BUSINESS ANALYSIS](/wiki/spaces/UPEX/pages/296243/BUSINESS+ANALYSIS)
-    
-*   Page:
-    
-    [User Interface Specifications (UI Spec)](/wiki/spaces/UPEX/pages/296201)
-    
-*   Page:
-    
-    [Software Features Hierarchy (SFH)](/wiki/spaces/UPEX/pages/295754)
-    
-*   Page:
-    
-    [MASTER TEST PLAN (MTP) (TEMPLATE)](/wiki/spaces/UPEX/pages/295984)
-    
-*   Page:
-    
-    [TEST DESIGN STRATEGY (TDS)](/wiki/spaces/UPEX/pages/295945)
-    
-*   Page:
-    
-    [SUT: OLX | INDEX: SUT PLANNING](/wiki/spaces/UPEX/pages/296018/SUT%3A+OLX+%7C+INDEX%3A+SUT+PLANNING)
-    
-*   Page:
-    
-    [SUT: OLX (WEB) | BUSINESS ANALYSIS](/wiki/spaces/UPEX/pages/296366/SUT%3A+OLX+%28WEB%29+%7C+BUSINESS+ANALYSIS)
-    
-*   Page:
-    
-    [SUT: OLX (WEB) | User Interface Specifications (UI Spec)](/wiki/spaces/UPEX/pages/296101)
-    
-*   Page:
-    
-    [SUT: OLX (WEB) | Software Features Hierarchy (SFH)](/wiki/spaces/UPEX/pages/295421)
-    
-*   Page:
-    
-    [SUT: OLX (APP) | BUSINESS ANALYSIS](/wiki/spaces/UPEX/pages/296006/SUT%3A+OLX+%28APP%29+%7C+BUSINESS+ANALYSIS)
-    
-*   Page:
-    
-    [SUT: OLX (APP) | Software Features Hierarchy (SFH)](/wiki/spaces/UPEX/pages/296347)
-    
-*   Page:
-    
-    [SUT: OLX (APP) | User Interface Specifications (UI Spec)](/wiki/spaces/UPEX/pages/296026)
-    
-
-## Ediciones Recientes
-
-*   [Git - GitBash (CLI) Git Repository](/wiki/spaces/UPEX/pages/296786/Git+-+GitBash+%28CLI%29+Git+Repository "UPEX")
-    
-    about an hour ago • contributed by [Elyer Maldonado](/wiki/display/~61179bdd01072b0069c94a26)
-    
-*   [MATERIAL SOBRE TESTING](/wiki/spaces/UPEX/pages/3997739/MATERIAL+SOBRE+TESTING "UPEX")
-    
-    about 3 hours ago • contributed by [Elyer Maldonado](/wiki/display/~61179bdd01072b0069c94a26)
-    
-*   [UI Testing (Cómo testear el DOM)](/wiki/spaces/UPEX/pages/296775 "UPEX")
-    
-    about 4 hours ago • contributed by [Elyer Maldonado](/wiki/display/~61179bdd01072b0069c94a26)
-    
-*   [Automation Testing 🏁](/wiki/spaces/UPEX/pages/296664 "UPEX")
-    
-    yesterday at 9:37 PM • contributed by [Elyer Maldonado](/wiki/display/~61179bdd01072b0069c94a26)
-    
-*   [UPEX Blackhole: "Tridente QA"- CURSO VIP](/wiki/spaces/UPEX/pages/3833858 "UPEX")
-    
-    Jun 24, 2022 • contributed by [Elyer Maldonado](/wiki/display/~61179bdd01072b0069c94a26)
-    
-
-[Show More](/wiki/plugins/recently-updated/changes.action?theme=concise&pageSize=5&startIndex=5&searchToken=1&spaceKeys=UPEX&contentType=page&cursor=_sa_WzE2NTYxMTM2ODUwMDAsIlx0MzgzMzg1OCBcImxRZE1NNicxJlhAPj82cD4rSVEgY3AiXQ%3D%3D) ![Please wait](/wiki/s/-451261324/6452/b2137d1cc922fd3a70f5a4c60ecced24241d9022/_/images/icons/wait.gif)
-
-![](https://upexsprint7.atlassian.net/wiki/download/attachments/295099/logo%20horizontal.png?api=v2)
 
 ## TODO LO QUE NECESITAS PARA EMPEZAR EN ESTE GRAN PROYECTO!
 
@@ -137,8 +56,8 @@ Search
     *   Abrirse una cuenta de **Slack** en "[https://slack.com](https://slack.com/)", y bajarse la app al móvil.
         
     *   Ingresar al **Workspace de UPEX** en Slack con el enlace de invitación, cuyo hipervínculo lleva al canal "Lobby".
-        
-        *   El usuario aterrizará primero en el canal "Landing" dentro de **Slack**. En dicho canal se le indicará los siguientes pasos y los enlaces para habilitar los demás canales del programa **UPEX** y el enlace al Site "[UpexAcademy](http://upexacademy.atlassian.com)" en **Jira**.
+     
+    *   El usuario aterrizará primero en el canal "Landing" dentro de **Slack**. En dicho canal deberás solicitar el acceso a los "canales de estudio".
             
 *   _**Herramientas con que se trabajarán:**_
     
@@ -159,6 +78,12 @@ Search
     *   **Google Meet**: para meetings privados (los links se enviarán a Slack).
         
     *   **YouTube**: para clases magistrales, demos, tutoriales y más (las reuniones de proyectos serán por enlace privado, que se enviarán a Slack)
+
+    *   **GitHub**: para la gestión de repositorio y versiones de cada uno de los proyectos de Automation Testing, incluyendo la gestión de UPEX Galaxy.
+
+    *   **VSCode**: para la organización del código local, el workbench para realizar cada actividad como Automation Tester.
+
+    *   **Frameworks**: Cypress (JavaScript), Selenium/Appium (Java, Python, C#, Ruby, JavaScript).
         
 
 # UPEX’s “Knowledge Transfer” (KT) Documentation:
