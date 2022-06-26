@@ -1,4 +1,4 @@
-## **Bienvenido al Workspace de UPEX!**
+## **Bienvenido a UPEX!**
 
 UPEX Es un programa educativo sin fines de lucro llamado "**Level-UP Experience**" (abreviado: UPEX), actualmente especializado para QA Testers, cuyo **valor** es aportar la **solución definitiva** a la **necesidad del Tester Jr o Trainee de conseguir esa primera experiencia laboral** que no puede porque le piden muchos **años de experiencia**. Este programa resuelve tal problemática, uniendo a dichos testers en equipos de trabajo por proyectos pequeños, llevado a cabo con **metodologías ágiles** en la plataforma **JIRA** y con algunas integraciones de la misma, efectuando **todas las tareas del cargo**, con el fin de **obtener experiencia suficiente** para luego conseguir entrevistas, superarlas y entrar a trabajar en una empresa IT, con seguridad de sí mismo y sin miedo al éxito!
 
