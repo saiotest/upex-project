@@ -1,9 +1,7 @@
 ﻿HISTORIAL DE MENSAJES DE UPERS EGRESADOS
  ===
 
-**Ely**  
-
-1:39
+**Ely**  1:39
 
 Todos los EGRESADOS de UPEX!
 
@@ -11,13 +9,9 @@ Ya tienen un espacio para dejar sus hermosos mensajes de inspiración y de "LO L
 
 Gente luchadora que cumplió con los estudios y descubrió los verdaderos conocimientos y experiencias que les ayudaron a llegar a su meta!! Dejen sus bellas inspiraciones para que ayudemos a TODOS a decir que SÍ SE PUEDE!!
 
-**Juan**  
-
-21:40
+**Juan**  21:40
 
 TODO se puede en la vida con constancia y perseverancia!!!
-
-21:40
 
 MIL GRACIAS @Ely por todo lo que estas dando 21:40
 
@@ -28,8 +22,6 @@ No tiene precio
 Hola. Gracias @Elyer Maldonado porque tu fuiste inspiración para aprender y decidir mi cambio de área.  Tu perseverancia y el empeño que le pones para transmitir tus conocimientos y experiencias fue el motor que me impulsó a buscar más. Hoy en día puedo decir que es un cambio de vida y hay que seguir formándose para ir por más. Gracias por ser un gran ser humano y un motivador incondicional. Eres grande1
 
 ![](Aspose.Words.8cc1dbd6-0248-4336-ae5a-6c5e9b105123.001.png)
-
-5 respuestasÚltima respuesta hace 1 mesVer hilo
 
 **Juan Castillo**  21:52
 
@@ -43,13 +35,10 @@ Me preguntaron de todo en las entrevistas! gente los videos de YouTube estúdien
 
 Yo le agradezco de corazón a @Ely por todo lo que hace de forma desinteresada, es un genio y se que muchos van a poder llegar a ese puesto de QA como yo. Un abrazo fuerte a todos!! SI SE PUEDE!!!3
 
-5 respuestasÚltima respuesta hace 4 díasVer hilo
 
 **Anibal Francisco Gómez Meza**  21:57
 
 Muchas gracias por tu tiempo y dedicación @Ely. He mejorado mucho y me siento más seguro con todos los tests.1
-
-1 respuestahace 30 díasVer hilo miércoles, 23 de marzo
 
 **Olga Torcates**  14:13
 
@@ -59,15 +48,11 @@ ambiente  laboral;  puedo decir que conozco y se usar las herramientas Jira,  Tr
 
 - EXITOS -  BENDICIONES-  ELY1
 
-3 respuestasÚltima respuesta hace 30 díasVer hilo
 
-**Berenice**  
-
-14:37
+**Berenice**  14:37
 
 Hola mi nombre es Berenice, descubrí a Ely por un video de youtube que la verdad me quede encantada por la forma de explicar y la calidad para que uno entienda....no puedo creer  el nivel humano de este hombre, le responde uno por uno las dudas, corrige las tareas que vamos entregando además de dar las clases que son espectaculares, pienso que bendecido  es el que cae a un lugar como este, aprendes todo lo que necesitas para ser un excelente tester y preguntas todo lo que tengas dudas y siempre son respuestas amables, es difícil encontrar gente tan eficiente , detallista y profesional entregando todo su conocimiento con esa calidad y amor!!! ojala que todas las personas que empiezan con esta hermosa profesión tenga la suerte de pasar por acá!!no quiero dejar de nombrar también a Juan Volpe colaborador del proyecto que sabe muchísimo y también siempre esta dispuesto a ayudar y a empujarte en todo momento, estar acá se lo debo a el que a penas le pregunte me incluyo y me explico todo!!! graciassss2
 
-1 respuestahace 30 díasVer hilo
 
 **Olga Torcates**  17:20
 
@@ -77,7 +62,6 @@ respondió a un hilo:Hola, soy parte de los PIONEROS, egresada de esta gran aven
 
 Amén, gracias Ely, no estoy trabajando aun como tester,  porque realmente no me he enfocado en enviar mi CV, aún tengo un compromiso pendiente en mi laburo.  Pero la idea es esa comenzar la búsqueda,  porque de verdad me gusta.  Y aquí sigo contigo llenándome más de tus conocimientos, Se que estoy preparado para iniciar esa búsqueda, ese cambio, seguro será así.  Gracias por tanto, por todo.
 
-Ver respuestas más recientes jueves, 24 de marzo
 
 **Santiago Gonzalez**  16:46
 
@@ -87,17 +71,13 @@ Van a ir a la entrevista y se van a devorar tanto al recruiter como a la persona
 
 Quiero darle las gracias al sensei Ely por todo, por el esfuerzo el talento y la pasion que le dedica a UPEX de forma totalmente desinteresada. Les mando un abrazo a todos y no bajen los brazos nunca!4 archivos 
 
-1 respuestahace 29 díasVer hilo
 
 **Mili Diaz**  17:26
 
 Holaa buenas tardes. Gracias querido @Ely por tanto por dejarme muy claro cosas que aún en mi cabeza no tenían un orden, más confiada que nunca y súper feliz por todos los conocimientos que obtuve, aún queda camino pero la confianza y seguridad que logre con tu curso no tiene precio. Eres excelente y solo deseo para ti muchísimo éxito y bendiciones por ser tan bondadoso y compartir contenido de valor... por supuesto que seguiré escribiéndote cuando tenga alguna duda jaja. Un abrazo!2
 
-1 respuestahace 29 díasVer hilo lunes, 28 de marzo
 
-**Ely**  
-
-19:59
+**Ely**  19:59
 
 Vaaaaamooo' los de UPEX
 
