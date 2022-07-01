@@ -1,9 +1,10 @@
 ### 😱Y SI TE DIGO QUE PUEDES APRENDER Y GANAR EXPERIENCIA REAL AL MISMO TIEMPO?
 # **¡GRATIS!**
 
-✨ESTOS SON ALGUNOS TESTIMONIOS DE TESTERS QUE LO LOGRARON!...
+✨ESTOS SON ALGUNOS DE LOS MUCHOS TESTIMONIOS DE TESTERS QUE LO LOGRARON: ✔
 [HISTORIAL DE EGRESADOS](https://github.com/Hirosaiku/upex-project/blob/main/Historial%20de%20Egresados.md)
 
+![Logo UPEX original black CUT](https://user-images.githubusercontent.com/91127281/176809244-05ca7781-0016-42cd-89ef-632b002baf10.png)
 
 # **🚀✨ LEVEL UP EXPERIENCE** — **"UPEX"** —
 
@@ -247,8 +248,8 @@ ___
 # 3: UPEX WORKSPACE
 
 Planetario dedicado a todo referente al Espacio de Trabajo en UPEX, para ganar experiencia real.
-![devops](https://user-images.githubusercontent.com/91127281/175808206-8edab605-26d1-4224-a14f-6b78284c9fd3.png)
 
+![ganaExperienciaRealTesting](https://user-images.githubusercontent.com/91127281/176811417-ff6ea162-9cf1-4542-adfd-ac7f28bf6435.jpg)
 
 ### 4 PLANETAS + 1 Satélite:
 
@@ -305,8 +306,8 @@ ___
 
 # 4: UPEX STRATEGY
 
-Planetario dedicado a todo referente a la Búsqueda Laboral en UPEX, para por fin conseguir el puesto.
-![job it](https://user-images.githubusercontent.com/91127281/175808465-1f43677c-efb0-4391-82b1-dae85b197cc5.png)
+Planetario dedicado a todo referente a la Búsqueda Laboral con UPEX, para por fin conseguir el puesto.
+![UPEX](https://user-images.githubusercontent.com/91127281/176811642-2d4d8630-2d0c-4fca-8bd5-a6f236843458.jpg)
 
 
 ### 1 PLANETA + 1 Agujero de Gusano:
