@@ -1,21 +1,22 @@
 # Linea de Comandos TERMINAL con GitBash:
 
-![](https://upexsprint7.atlassian.net/wiki/download/attachments/296786/image-20220503-062950.png?api=v2)
+![image-20220503-062950](https://user-images.githubusercontent.com/91127281/176974226-25024a4b-a1be-48b2-99c0-1e1fd4f8b61a.png)
+
 
 # Linea de Comandos GIT con GitBash:
 
-![](https://upexsprint7.atlassian.net/wiki/download/attachments/296786/image-20220617-193235.png?api=v2)
+![image-20220617-193235](https://user-images.githubusercontent.com/91127281/176974243-7e39da3f-6619-45dd-b3b6-4f796f59267c.png)
+
 
 # Git — Most frequently used commands
 
-```
 Git: Version control system to track changes in your projects.
 It is also used to push and pull changes from remote repositories like GitHub, GitLab, BitBucket, etc.GitLab, GitHub, BitBucket: Services that allow to host your project as a remote repository and serve as repository managers that also have additional features to help SDLC(Software Development Life Cycle) and CI(Continuous Integration), CD(Continuous Deployment).
-```
 
 # Workflow:
 
-![](https://upexsprint7.atlassian.net/wiki/download/attachments/296786/1*ZG8OzO2oTPi6cwm_e1h7rw.png?api=v2)
+![1_ZG8OzO2oTPi6cwm_e1h7rw](https://user-images.githubusercontent.com/91127281/176974251-642714ec-66d2-4f98-b3b9-35ce0d5d0e0b.png)
+
 
 **Workspace ↔ Staging ↔ Local Repository ↔ Remote Repository**
 
