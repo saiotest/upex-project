@@ -1,0 +1,14 @@
+{
+  "name": "git_war",
+  "version": "1.0.0",
+  "description": "kt usando git",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "upex"
+  ],
+  "author": "UPEX",
+  "license": "ISC"
+}
